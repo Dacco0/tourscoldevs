@@ -1,7 +1,7 @@
 API RESTFUL para gestión de Booking Tours Coldevs
 
 REQUISITOS
-PHP >= 7.4
+PHP >= 8.3.3
 Laravel >= 10.46.0
 MySQL >= mysql-8.0.3
 
